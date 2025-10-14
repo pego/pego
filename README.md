@@ -1,28 +1,33 @@
-# 👋 Hi, I'm Pego
-
-### I help global brands to innovate digital experiences  
-_Building innovative e-commerce platforms for global fashion brands that transform how people shop online._
+<!-- Banner -->
+![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I'm%20Pego%20👋&fontSize=45&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=E-Commerce%20-%20AI%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
 
 ---
 
-## 🧠 About Me
-
-I'm **Massimo Pegoraro**, but most people just call me **Pego**.  
-I’ve spent the last 15+ years building technology that quietly powers the fashion world — from luxury e-commerce platforms to omnichannel retail architectures used by brands you probably have in your wardrobe.
-
-These days, I’m **Technical Director at [Atoms – Retex Group](https://www.retexspa.com/)**, where I lead teams creating **headless and composable e-commerce ecosystems** for global brands.  
-My work lives somewhere between **architecture, innovation, and design systems**. I like things that are fast, elegant, and a little over-engineered.
-
-I’m based between **Venice and Milan**, and when I’m not buried in code or strategy decks, you’ll probably find me training kickboxing or diving somewhere quiet — both excellent ways to debug the mind.
+### 🧭 I help global brands to innovate digital experiences  
+_Building e-commerce platforms that transform how people shop online._
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 About Me
 
-- Transitioning fashion brands from monolithic platforms to **headless & composable architectures**  
-- Building **AI copilots** for commerce (analytics, automation, tagging)  
-- Exploring **sustainable tech** in retail — performance with less waste  
-- Mentoring dev teams to blend **precision and creativity**
+I’m **Massimo Pegoraro**, but most people call me **Pego**.  
+I build technology that makes fashion retail smarter — and sometimes, even a little magical.
+
+Currently, I’m **Technical Director at [Atoms – Retex Group](https://www.retexspa.com/)**, leading the development of **headless & composable e-commerce** ecosystems for global luxury brands.  
+I’ve been in tech for **15+ years**, spanning code, architecture, and strategy.  
+My work sits somewhere between **commerce engineering** and **digital artistry**.
+
+When I’m not managing large dev teams or tinkering with AI copilots for commerce, I’m probably:  
+🥋 teaching kickboxing • 🤿 diving • 🍳 experimenting in the kitchen
+
+---
+
+## 🚀 What I’m Working On
+
+- Helping brands move from monoliths to **headless & composable** stacks  
+- Building **AI-powered assistants** for analytics, tagging, and automation  
+- Exploring **sustainable tech** — performance with purpose  
+- Mentoring engineers to bridge design, code, and business thinking  
 
 ---
 
