@@ -1,10 +1,10 @@
 <!-- Banner -->
-![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I'm%20Pego%20👋&fontSize=45&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=E-Commerce%20-%20AI%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
+![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I'm%20Pego%20👋&fontSize=45&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Artificial%20Intelligence%20-%20Digital%20Experience%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
 
 ---
 
 ### 🧭 I help global brands to innovate digital experiences  
-_Building e-commerce platforms that transform how people shop online._
+_Building digital experiences that empower people._
 
 ---
 
@@ -13,9 +13,8 @@ _Building e-commerce platforms that transform how people shop online._
 I’m **Massimo Pegoraro**, but most people call me **Pego**.  
 I build technology that makes fashion retail smarter — and sometimes, even a little magical.
 
-Currently, I’m **Technical Director at [Atoms – Retex Group](https://www.retexspa.com/)**, leading the development of **headless & composable e-commerce** ecosystems for global luxury brands.  
 I’ve been in tech for **15+ years**, spanning code, architecture, and strategy.  
-My work sits somewhere between **commerce engineering** and **digital artistry**.
+My work sits somewhere between **artificial intelligence**, **commerce engineering**, **digital artistry**.
 
 When I’m not managing large dev teams or tinkering with AI copilots for commerce, I’m probably:  
 🥋 teaching kickboxing • 🤿 diving • 🍳 experimenting in the kitchen
@@ -24,8 +23,8 @@ When I’m not managing large dev teams or tinkering with AI copilots for commer
 
 ## 🚀 What I’m Working On
 
+- Building **AI-powered solutions** for analytics, tagging, and automation
 - Helping brands move from monoliths to **headless & composable** stacks  
-- Building **AI-powered assistants** for analytics, tagging, and automation  
 - Exploring **sustainable tech** — performance with purpose  
 - Mentoring engineers to bridge design, code, and business thinking  
 
@@ -68,7 +67,6 @@ If it doesn’t make life easier for someone, it’s probably not worth shipping
 - [🌐 Website](https://pego.tech)  
 - [💼 LinkedIn](https://www.linkedin.com/in/massimopegoraro/)  
 - [📧 Email](mailto:hey@pego.tech)  
-- [🐙 GitHub](https://github.com/pego)
 
 ---
 
