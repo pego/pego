@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I'm%20Pego%20👋&fontSize=45&textBg=false&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Artificial%20Intelligence%20-%20Digital%20Experience%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
+![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I%27m%20Pego%20%F0%9F%91%8B&fontSize=60&textBg=false&fontColor=ffffff&fontAlign=46&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20-%20Digital%20Experience%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
 
 ---
 
