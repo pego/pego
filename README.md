@@ -1,73 +1,53 @@
-<!-- Banner -->
-![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I%27m%20Pego%20%F0%9F%91%8B&fontSize=60&textBg=false&fontColor=ffffff&fontAlign=46&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20-%20Digital%20Experience%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header.svg">
+  <img alt="Massimo ‘Pego’ Pegoraro — Tech & AI Director. Make it useful." src="assets/profile-header.svg" width="100%">
+</picture>
 
----
+I'm **Massimo Pegoraro**, usually **Pego**. I'm Tech & AI Director at **Alkemy Group**, working on luxury commerce and the engineering organisations behind it.
 
-### 🧭 I help global brands to innovate digital experiences  
-_Building digital experiences that empower people._
+Before that, I co-founded **DiGiness** and **Atoms** and wrote the code myself. Twenty-plus years in, I still work across platforms, products and the people who own them.
 
----
+[Pego's Desk](https://pego.tech/) · [About & track record](https://pego.tech/about/) · [LinkedIn](https://www.linkedin.com/in/massimopegoraro/)
 
-## 👨‍💻 About Me
+## On the desk
 
-I’m **Massimo Pegoraro**, but most people call me **Pego**.  
-I build technology that makes fashion retail smarter — and sometimes, even a little magical.
+- **AI-native commerce:** what happens when the interface moves beyond the website.
+- **Composable platforms:** architecture that holds up through migration and everyday operations.
+- **Agentic workflows:** coding agents, useful context and real operational work.
+- **Engineering organisations:** teams that keep their knowledge and can make decisions through change.
 
-I’ve been in tech for **15+ years**, spanning code, architecture, and strategy.  
-My work sits somewhere between **artificial intelligence**, **commerce engineering**, **digital artistry**.
+## In the open
 
-When I’m not managing large dev teams or tinkering with AI copilots for commerce, I’m probably:  
-🥋 teaching kickboxing • 🤿 diving • 🍳 experimenting in the kitchen
+Two projects here reflect the same concerns I bring to teams: how work gets done, and how context survives.
 
----
+| Project | What it does |
+| --- | --- |
+| [6phase](https://github.com/pego/6phase) | A six-phase workflow for AI coding agents, from design and planning through approval, documentation and commit. |
+| [twin-mind](https://github.com/pego/twin-mind) | Codebase knowledge and conversation memory for AI coding agents, with shared team decisions. |
 
-## 🚀 What I’m Working On
+I also keep **[Pego's Desk](https://pego.tech/)**: tools, ideas and notes on design, technology and making things work. Collected with care, selected for practical use.
 
-- Building **AI-powered solutions** for analytics, tagging, and automation
-- Helping brands move from monoliths to **headless & composable** stacks  
-- Exploring **sustainable tech** — performance with purpose  
-- Mentoring engineers to bridge design, code, and business thinking  
+## Built along the way
 
----
+| Year | Work | Scale / outcome |
+| --- | --- | --- |
+| 2016 · DiGiness | **Candy · Haier Group** | IoT platform work for **4.5 million connected appliances**. |
+| 2021 · Atoms | **e1972** | A sizeless commerce experience using **AI full-body scanning**. |
+| 2024 · Alkemy Group | **Global brand, name withheld** | Global e-commerce across **60 countries**, with **€150 million in revenues**. |
 
-## 💡 Selected Projects
+[The longer story →](https://pego.tech/about/)
 
-**e1972 — Sizeless Fashion Meets Custom Tech**  
-Built a fully headless architecture with **Commerce Layer**, **Contentful**, and **Algolia**.  
-Integrated **3DLOOK body scanning** for AI-driven made-to-measure fashion.  
-→ _Sizeless, frictionless, future-ready._
+## Useful beats impressive
 
-**Candy / Hoover – Haier Group**  
-Designed a system managing **4.5M+ connected devices** for smart appliances.  
-Mobile app in **React Native**, backend on **Rails/Node/Heroku**.  
-15 product types, 1 goal: make household tech actually feel smart.
+**Simplify what is tangled.** Understand the problem well enough to make the system simpler.
 
----
+**Keep the context that matters.** Preserve the decisions and knowledge that otherwise leave with people.
 
-## 🧩 Tech Playground
+**Make the next decision easier.** Give the team enough clarity to move without me in the room.
 
-- **Languages:** TypeScript, JavaScript, Ruby, Python  
-- **Frameworks:** Vue, Nuxt, React, Next, Ruby on Rails  
-- **Cloud:** Cloudflare, AWS, Supabase, GCP  
-- **Specialties:** Headless Commerce, AI Integrations, API Design, Scalable Architectures  
-- **Other Passions:** Product strategy, data storytelling, and making things beautifully fast  
+## Bring the messy version
 
----
+Platform and product strategy, technical due diligence, or AI-native commerce? Tell me what you're working on, what you'd want from me, and any timing that matters.
 
-## 🧭 Philosophy
-
-Technology should feel _invisible_ when it works well.  
-I believe in **craft over convenience**, **clarity over buzzwords**, and **human-centered engineering**.  
-If it doesn’t make life easier for someone, it’s probably not worth shipping.
-
----
-
-## 📫 Let’s Connect
-
-- [🌐 Website](https://pego.tech)  
-- [💼 LinkedIn](https://www.linkedin.com/in/massimopegoraro/)  
-- [📧 Email](mailto:hey@pego.tech)  
-
----
-
-> “Innovation isn’t about adding more — it’s about removing friction until something feels inevitable.”
+[Talk](https://pego.tech/talk/) · [hi@pego.tech](mailto:hi@pego.tech)
