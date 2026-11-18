@@ -1,41 +1,52 @@
-<!-- Banner -->
-![Pego Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=21&text=Hi,%20I%27m%20Pego%20%F0%9F%91%8B&fontSize=60&textBg=false&fontColor=ffffff&fontAlign=46&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20-%20Digital%20Experience%20-%20Innovation&descAlign=46&descSize=16&descAlignY=52)
-# Hi, I'm Pego
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header.svg">
+  <img alt="Massimo ‘Pego’ Pegoraro — Tech & AI Director. Make it useful." src="assets/profile-header.svg" width="100%">
+</picture>
 
-I'm Massimo Pegoraro, a technology director, co-founder and developer
-based in Italy.
+I'm **Massimo Pegoraro**, usually **Pego**. I'm Tech & AI Director at **Alkemy Group**, working on luxury commerce and the engineering organisations behind it.
 
-Over the past 20 years, I've built web applications, helped grow two
-studios and led an engineering team of around 30 developers. My work
-has taken me through digital commerce, connected devices and technology
-leadership at Atoms, Retex and Design Group Italia.
+Before that, I co-founded **DiGiness** and **Atoms** and wrote the code myself. Twenty-plus years in, I still work across platforms, products and the people who own them.
 
-I still write code. These days, I'm particularly interested in how AI
-agents work with codebases, retain context and fit into a team's
-development process.
+[Pego's Desk](https://pego.tech/) · [About & track record](https://pego.tech/about/) · [LinkedIn](https://www.linkedin.com/in/massimopegoraro/)
 
-## Things I've built
+## On the desk
 
-- [6phase](https://github.com/pego/6phase) — A development workflow for
-  AI coding agents, covering design, planning, implementation, review,
-  documentation and commits.
+- **AI-native commerce:** what happens when the interface moves beyond the website.
+- **Composable platforms:** architecture that holds up through migration and everyday operations.
+- **Agentic workflows:** coding agents, useful context and real operational work.
+- **Engineering organisations:** teams that keep their knowledge and can make decisions through change.
 
-- [Twin-Mind](https://github.com/pego/twin-mind) — Codebase search and
-  persistent memory for AI coding agents, with local notes and shared
-  team decisions.
+## In the open
 
-- [Pego's Desk](https://pego.tech/) — My collection of tools, articles,
-  repositories and research on technology, AI and design, with notes
-  on what caught my attention and where it might be useful.
+Two projects here reflect the same concerns I bring to teams: how work gets done, and how context survives.
 
-## Technologies I work with
+**[6phase](https://github.com/pego/6phase)** — A six-phase workflow for AI coding agents, from design and planning through approval, documentation and commit.
 
-TypeScript, JavaScript, Ruby and Python.
-Vue, Nuxt, React, Next.js and Rails.
-Cloudflare, Supabase and composable commerce platforms.
+**[twin-mind](https://github.com/pego/twin-mind)** — Codebase knowledge and conversation memory for AI coding agents, with shared team decisions.
 
-Away from the keyboard, I teach kickboxing, dive and experiment
-in the kitchen.
+I also keep **[Pego's Desk](https://pego.tech/)**: tools, ideas and notes on design, technology and making things work. Collected with care, selected for practical use.
 
-[Website](https://pego.tech/) ·
-[LinkedIn](https://www.linkedin.com/in/massimopegoraro/)
+## Built along the way
+
+| Year | Work | Scale / outcome |
+| --- | --- | --- |
+| 2016 · DiGiness | **Candy · Haier Group** | IoT platform work for **4.5 million connected appliances**. |
+| 2021 · Atoms | **e1972** | A sizeless commerce experience using **AI full-body scanning**. |
+| 2024 · Alkemy Group | **Global brand, name withheld** | Global e-commerce across **60 countries**, with **€150 million in revenues**. |
+
+[The longer story →](https://pego.tech/about/)
+
+## Useful beats impressive
+
+**Simplify what is tangled.** Understand the problem well enough to make the system simpler.
+
+**Keep the context that matters.** Preserve the decisions and knowledge that otherwise leave with people.
+
+**Make the next decision easier.** Give the team enough clarity to move without me in the room.
+
+## Bring the messy version
+
+Platform and product strategy, technical due diligence, or AI-native commerce? Tell me what you're working on, what you'd want from me, and any timing that matters.
+
+[Talk](https://pego.tech/talk/) · [hi@pego.tech](mailto:hi@pego.tech)

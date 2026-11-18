@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-labelledby="title desc">
+  <title id="title">Massimo ‘Pego’ Pegoraro</title>
+  <desc id="desc">Tech &amp; AI Director. Make it useful. Venice area, Italy.</desc>
+  <rect width="1200" height="238" fill="#f4f0e4"/>
+  <g fill="#28251f">
+    <text x="42" y="43" font-family="'Courier New', monospace" font-size="14" letter-spacing="2">PEGO / PEOPLE, TECHNOLOGY, EXPERIENCE</text>
+    <text x="42" y="121" font-family="Georgia, 'Times New Roman', serif" font-size="57" letter-spacing="-1.6">Massimo “Pego” Pegoraro</text>
+    <text x="42" y="192" font-family="'Courier New', monospace" font-size="18">Tech &amp; AI Director</text>
+  </g>
+  <g fill="#74503a">
+    <text x="1158" y="43" text-anchor="end" font-family="'Courier New', monospace" font-size="14" letter-spacing="1">VENICE AREA, ITALY</text>
+    <text x="1158" y="192" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic">Make it useful.</text>
+  </g>
+  <path d="M42 151H1158" stroke="#8e8271" stroke-width="1"/>
+  <path d="M985 203Q1070 208 1158 201" fill="none" stroke="#74503a" stroke-width="1.5"/>
+</svg>
