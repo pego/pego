@@ -1,8 +1,10 @@
 [![Hi, I'm Pego — Design, technology, and making things that work.](./assets/header.png)](https://pego.tech/)
 
-I'm **Massimo Pegoraro**, usually **Pego**. I'm Tech & AI Director at **Alkemy Group**, working on luxury commerce and the engineering organisations behind it.
+I'm Massimo Pegoraro, a technology director, co-founder and developer based in Italy.
 
-Before that, I co-founded **DiGiness** and **Atoms** and wrote the code myself. Twenty-plus years in, I still work across platforms, products and the people who own them.
+Over the past 20 years, I've built web applications, helped grow two studios and led an engineering team of around 30 developers. My work has taken me through digital commerce, connected devices and technology leadership at Atoms, Retex and Design Group Italia.
+
+I still write code. These days, I'm particularly interested in how AI agents work with codebases, retain context and fit into a team's development process.
 
 [Pego's Desk](https://pego.tech/) · [About & track record](https://pego.tech/about/) · [LinkedIn](https://www.linkedin.com/in/massimopegoraro/)
 
@@ -15,21 +17,19 @@ Before that, I co-founded **DiGiness** and **Atoms** and wrote the code myself. 
 
 ## In the open
 
-Two projects here reflect the same concerns I bring to teams: how work gets done, and how context survives.
+- [6phase](https://github.com/pego/6phase) — A development workflow for AI coding agents, covering design, planning, implementation, review, documentation and commits.
 
-**[6phase](https://github.com/pego/6phase)** — A six-phase workflow for AI coding agents, from design and planning through approval, documentation and commit.
+- [Twin-Mind](https://github.com/pego/twin-mind) — Codebase search and persistent memory for AI coding agents, with local notes and shared team decisions.
 
-**[twin-mind](https://github.com/pego/twin-mind)** — Codebase knowledge and conversation memory for AI coding agents, with shared team decisions.
-
-I also keep **[Pego's Desk](https://pego.tech/)**: tools, ideas and notes on design, technology and making things work. Collected with care, selected for practical use.
+- [Pego's Desk](https://pego.tech/) — My collection of tools, articles, repositories and research on technology, AI and design, with notes on what caught my attention and where it might be useful.
 
 ## Built along the way
 
-| Year | Work | Scale / outcome |
-| --- | --- | --- |
-| 2016 · DiGiness | **Candy · Haier Group** | IoT platform work for **4.5 million connected appliances**. |
-| 2021 · Atoms | **e1972** | A sizeless commerce experience using **AI full-body scanning**. |
-| 2024 · Alkemy Group | **Global brand, name withheld** | Global e-commerce across **60 countries**, with **€150 million in revenues**. |
+| Year | Company | Role | Description |
+| --- | --- | --- | --- |
+| 2025 | Design Group Italia | **Tech director** | Led technology at Design Group Italia, a multidisciplinary design studio within Alkemy+. Took on the role during the Retex–Alkemy integration, as Atoms’ experience design capabilities became part of the studio. |
+| 2021 | Retex | **Tech director** | Led an engineering team of around 30 developers following Retex’s acquisition of Atoms in 2021. Oversaw architecture and delivery for international fashion and luxury commerce programmes, including composable replatforming, systems integrations and multi-market rollouts. Led the adoption of AI tools in software engineering workflows. |
+| 2018 | Atoms | **Co-Founder & Technical Director** | Co-founded and helped grow a digital experience studio from 15 to 40 people. Led technology and delivery for e-commerce and digital experience projects, and introduced headless and composable architectures. One example was Au Départ, whose e-commerce launch expanded to 22 additional markets. |
 
 [The longer story →](https://pego.tech/about/)
 
