@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header.svg">
-  <img alt="Massimo ‘Pego’ Pegoraro — Tech & AI Director. Make it useful." src="assets/profile-header.svg" width="100%">
-</picture>
+[![Hi, I'm Pego — Design, technology, and making things that work.](./assets/header.png)](https://pego.tech/)
 
 I'm **Massimo Pegoraro**, usually **Pego**. I'm Tech & AI Director at **Alkemy Group**, working on luxury commerce and the engineering organisations behind it.
 
